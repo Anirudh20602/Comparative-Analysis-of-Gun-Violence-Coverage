@@ -47,12 +47,15 @@ The notebook generates:
 
 ```
 HW5/
-├── HW5_FINAL.ipynb          # Main analysis notebook (all code consolidated)
-├── requirements.txt          # Python dependencies
-├── README.md                 # This file
+├── notebooks/
+│   └── HW5_FINAL.ipynb      # Main analysis notebook (all code consolidated)
+├── data/
+│   └── raw/                 # Raw article files (100 articles)
 ├── Homework 5.pdf           # Assignment instructions
-└── data/                    # Dataset directory
-    └── raw/                 # Raw article files (100 articles)
+├── README.md                # This file
+├── requirements.txt         # Python dependencies
+├── labeled_clusters.csv     # Output: Extracted descriptions with cluster assignments
+└── processed_articles_resolved.csv  # Output: Articles with resolved coreferences
 ```
 
 ## Key Features
