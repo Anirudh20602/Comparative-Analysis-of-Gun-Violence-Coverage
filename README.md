@@ -64,8 +64,3 @@ HW5/
 - **Robust Extraction**: Combines dependency parsing with proximity-based POS extraction
 - **Semantic Clustering**: Agglomerative clustering on sentence embeddings (distance_threshold=0.8)
 - **Statistical Rigor**: Chi-squared tests for cross-outlet comparison
-
-## Notes
-
-- The notebook includes a monkeypatch for FastCoref model loading to bypass security restrictions in newer transformers versions
-- All analysis is self-contained in a single notebook for easy execution and submission
