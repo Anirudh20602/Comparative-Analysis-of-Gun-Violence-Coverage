@@ -1,0 +1,11 @@
+spacy
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+sentence-transformers
+jupyter
+fastcoref
+torch

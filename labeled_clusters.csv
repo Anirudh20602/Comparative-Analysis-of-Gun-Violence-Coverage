@@ -1,0 +1,239 @@
+term,outlet,type,source_text,cluster_id,cluster_name
+accused,NYT,victim,The two teachers who were killed were also accused of being crisis actors.,0,Cluster_0
+erupted,NYT,shooter,"Xavier's classroom, where a nightmare erupted when a gunman burst in and killed 19 children and two teachers, reflected the close-knit character of Uvalde, a Mexican American ranching town in southern Texas where lives are braided together by generations of friendships and marriage.",0,Cluster_0
+burst,NYT,shooter,"Xavier's classroom, where a nightmare erupted when a gunman burst in and killed 19 children and two teachers, reflected the close-knit character of Uvalde, a Mexican American ranching town in southern Texas where lives are braided together by generations of friendships and marriage.",0,Cluster_0
+burst,NYT,victim,"Xavier's classroom, where a nightmare erupted when a gunman burst in and killed 19 children and two teachers, reflected the close-knit character of Uvalde, a Mexican American ranching town in southern Texas where lives are braided together by generations of friendships and marriage.",0,Cluster_0
+defeated,NYT,victim,"Nearly a decade later, while watching the death toll rise after Tuesday's shooting at Robb Elementary School in Uvalde, Tex., one father of a Sandy Hook victim felt defeated.
+
+''I guess it's something in society we know will happen again, over and over,'' said Neil Heslin, whose son Jesse Lewis, 6, died in the shooting in 2012.",0,Cluster_0
+entered,NYT,shooter,"The gunman who killed 19 children and two teachers in a rural Texas elementary school on Tuesday entered the building despite being confronted by an armed school security officer, then wounded two responding police officers and engaged in a standoff inside the school for over an hour, state police officials said.",0,Cluster_0
+killed,NYT,shooter,"The gunman who killed 19 children and two teachers in a rural Texas elementary school on Tuesday entered the building despite being confronted by an armed school security officer, then wounded two responding police officers and engaged in a standoff inside the school for over an hour, state police officials said.",0,Cluster_0
+barricaded,NYT,shooter,"What began around 11:30 a.m., with the first report of an armed man approaching the school, ended as specialized officers breached a pair of adjoining classrooms and killed the gunman barricaded inside just after 1 p.m., state police officials said.",0,Cluster_0
+killed,NYT,shooter,"What began around 11:30 a.m., with the first report of an armed man approaching the school, ended as specialized officers breached a pair of adjoining classrooms and killed the gunman barricaded inside just after 1 p.m., state police officials said.",0,Cluster_0
+identified,NYT,shooter,"But officials said that the officers had successfully contained the gunman, identified as Salvador Ramos, until more specially trained officers could arrive.",0,Cluster_0
+contained,NYT,shooter,"But officials said that the officers had successfully contained the gunman, identified as Salvador Ramos, until more specially trained officers could arrive.",0,Cluster_0
+responding,NYT,victim,"The gunman who killed 19 children and two teachers in a rural Texas elementary school on Tuesday entered the building despite being confronted by an armed school security officer, then wounded two responding police officers and engaged in a standoff inside the school for over an hour, state police officials said.",0,Cluster_0
+barricaded,NYT,victim,"What began around 11:30 a.m., with the first report of an armed man approaching the school, ended as specialized officers breached a pair of adjoining classrooms and killed the gunman barricaded inside just after 1 p.m., state police officials said.",0,Cluster_0
+adjoining,NYT,victim,"What began around 11:30 a.m., with the first report of an armed man approaching the school, ended as specialized officers breached a pair of adjoining classrooms and killed the gunman barricaded inside just after 1 p.m., state police officials said.",3,Other_3
+walked,NYT,shooter,"A gunman walked into an elementary school in Uvalde, Texas, and killed 14 students and a teacher, Gov. Greg Abbott of Texas said at a news conference shortly after the massacre.",0,Cluster_0
+elementary,NYT,victim,"The massacre in which 14 children and a teacher were killed at an elementary school in Uvalde, Texas, on May 24 was the deadliest mass shooting in the United States so far this year.",0,Cluster_0
+shot,NYT,victim,It happened just 10 days after 10 people were shot and killed in a supermarket in Buffalo.,0,Cluster_0
+killed,NYT,shooter,"When 19 more children were killed by a gunman in Uvalde, Texas, on Tuesday, Mr. Biden, now the president, repeated his own call for the government to do something, decrying ''another massacre'' and insisting that it was ''time to turn this pain into action.''",0,Cluster_0
+honor,NYT,victim,"But a decade after Republicans blocked gun safety legislation in response to the school shooting in Newtown, Conn., Mr. Biden remains caught between a desire to honor the dead by vowing to act and the reality that he cannot deliver on sweeping promises without consensus in Congress.",0,Cluster_0
+vowing,NYT,victim,"But a decade after Republicans blocked gun safety legislation in response to the school shooting in Newtown, Conn., Mr. Biden remains caught between a desire to honor the dead by vowing to act and the reality that he cannot deliver on sweeping promises without consensus in Congress.",2,Other_2
+comparable,NYT,shooter,Trained police officers in Uvalde were no match because the shooter had comparable weaponry.,0,Cluster_0
+had,NYT,shooter,Trained police officers in Uvalde were no match because the shooter had comparable weaponry.,0,Cluster_0
+fourth,NYT,victim,"It is hard to imagine my fourth-grade teacher, Mrs. Sims, armed.",0,Cluster_0
+old,NYT,shooter,"On Tuesday, an 18-year-old gunman opened fire at Robb Elementary School in Uvalde, Texas, a rural town about 80 miles west of San Antonio, killing 19 children and two teachers, and wounding several other children.",0,Cluster_0
+opened,NYT,shooter,"On Tuesday, an 18-year-old gunman opened fire at Robb Elementary School in Uvalde, Texas, a rural town about 80 miles west of San Antonio, killing 19 children and two teachers, and wounding several other children.",0,Cluster_0
+shooting,NYT,shooter,But the motive for the Buffalo attack appears clear from the online screed left by the shooting suspect.,0,Cluster_0
+killed,NYT,shooter,"As the nation reels from a massacre at a Texas elementary school in which a gunman killed 19 children and two teachers, a review of Republican and Democratic advertising during the first months of 2022 highlights the giant cultural chasm over guns in America.",0,Cluster_0
+old,NYT,shooter,"In the aftermath of Tuesday's school massacre in Uvalde, Texas, where an 18-year-old gunman killed 19 children and two teachers, Mr. Cruz remained unapologetic in his broad opposition to gun control measures.",0,Cluster_0
+killed,NYT,shooter,"In the aftermath of Tuesday's school massacre in Uvalde, Texas, where an 18-year-old gunman killed 19 children and two teachers, Mr. Cruz remained unapologetic in his broad opposition to gun control measures.",0,Cluster_0
+old,NYT,victim,"In the aftermath of Tuesday's school massacre in Uvalde, Texas, where an 18-year-old gunman killed 19 children and two teachers, Mr. Cruz remained unapologetic in his broad opposition to gun control measures.",0,Cluster_0
+entered,NYT,shooter,"The gunman who killed 19 children and two teachers in a rural Texas elementary school on Tuesday entered the building despite being confronted by an armed school security officer, then wounded two responding police officers and engaged in a standoff inside the school for over an hour, state police officials said.",0,Cluster_0
+killed,NYT,shooter,"The gunman who killed 19 children and two teachers in a rural Texas elementary school on Tuesday entered the building despite being confronted by an armed school security officer, then wounded two responding police officers and engaged in a standoff inside the school for over an hour, state police officials said.",0,Cluster_0
+barricaded,NYT,shooter,"What began around 11:30 a.m., with the first report of an armed man approaching the school, ended as specialized officers breached a pair of adjoining classrooms and killed the gunman barricaded inside just after 1 p.m., state police officials said.",0,Cluster_0
+killed,NYT,shooter,"What began around 11:30 a.m., with the first report of an armed man approaching the school, ended as specialized officers breached a pair of adjoining classrooms and killed the gunman barricaded inside just after 1 p.m., state police officials said.",0,Cluster_0
+identified,NYT,shooter,"But officials said that the officers had successfully contained the gunman, identified as Salvador Ramos, until more specially trained officers could arrive.",0,Cluster_0
+contained,NYT,shooter,"But officials said that the officers had successfully contained the gunman, identified as Salvador Ramos, until more specially trained officers could arrive.",0,Cluster_0
+responding,NYT,victim,"The gunman who killed 19 children and two teachers in a rural Texas elementary school on Tuesday entered the building despite being confronted by an armed school security officer, then wounded two responding police officers and engaged in a standoff inside the school for over an hour, state police officials said.",0,Cluster_0
+barricaded,NYT,victim,"What began around 11:30 a.m., with the first report of an armed man approaching the school, ended as specialized officers breached a pair of adjoining classrooms and killed the gunman barricaded inside just after 1 p.m., state police officials said.",0,Cluster_0
+adjoining,NYT,victim,"What began around 11:30 a.m., with the first report of an armed man approaching the school, ended as specialized officers breached a pair of adjoining classrooms and killed the gunman barricaded inside just after 1 p.m., state police officials said.",3,Other_3
+killed,NYT,shooter,"A gunman killed at least 19 children and two adults on Tuesday in a rural Texas elementary school, a state police official said, in the deadliest American school shooting since the massacre at Sandy Hook Elementary a decade ago.",0,Cluster_0
+said,NYT,shooter,"A gunman killed at least 19 children and two adults on Tuesday in a rural Texas elementary school, a state police official said, in the deadliest American school shooting since the massacre at Sandy Hook Elementary a decade ago.",0,Cluster_0
+shot,NYT,shooter,"Ten days earlier, a gunman fatally shot 10 people inside a Buffalo grocery store.",0,Cluster_0
+shot,NYT,victim,"He shot and killed horrifically, incomprehensibly,'' Gov. Greg Abbott said in a news conference.",0,Cluster_0
+elementary,NYT,victim,"And now 19 elementary school students killed in Uvalde, Texas.",0,Cluster_0
+conducting,NYT,shooter,"I imagined it when I arrived one day to pick up my older daughter, then not even 2 years old, from day care in Washington, D.C., and found that they were conducting an active shooter drill with the babies and toddlers.",0,Cluster_0
+active,NYT,shooter,"I imagined it when I arrived one day to pick up my older daughter, then not even 2 years old, from day care in Washington, D.C., and found that they were conducting an active shooter drill with the babies and toddlers.",0,Cluster_0
+realize,NYT,shooter,"Her teachers explained that they were training the children to hide in a small dark room and not make a sound, so that if one day the worst happened, the shooter might not realize they were there.",0,Cluster_0
+happened,NYT,shooter,"Her teachers explained that they were training the children to hide in a small dark room and not make a sound, so that if one day the worst happened, the shooter might not realize they were there.",0,Cluster_0
+public,NYT,victim,"A few years earlier, when my husband, then a teacher in a public school, texted me that they were locked down because of a reported shooting in the building, I imagined him being killed, or being helpless to save his students.",0,Cluster_0
+imagined,NYT,victim,"A few years earlier, when my husband, then a teacher in a public school, texted me that they were locked down because of a reported shooting in the building, I imagined him being killed, or being helpless to save his students.",0,Cluster_0
+old,CNN,shooter,"An 18-year-old gunman on Tuesday fatally shot 19 children and two teachers at an elementary school before he was killed by law enforcement officers, officials said.",0,Cluster_0
+shot,CNN,shooter,"An 18-year-old gunman on Tuesday fatally shot 19 children and two teachers at an elementary school before he was killed by law enforcement officers, officials said.",0,Cluster_0
+left,CNN,victim,"It is the deadliest shooting at a school since the Sandy Hook massacre in Connecticut in 2012 that left 26 people dead, including 20 children aged between 6 and 7 years old.",0,Cluster_0
+including,CNN,victim,"It is the deadliest shooting at a school since the Sandy Hook massacre in Connecticut in 2012 that left 26 people dead, including 20 children aged between 6 and 7 years old.",0,Cluster_0
+texted,CNN,shooter,"Just before killing 19 children and two teachers in a Texas elementary school Tuesday, the 18-year-old gunman allegedly texted a girl who lives in Germany about his intentions.",0,Cluster_0
+old,CNN,shooter,"Just before killing 19 children and two teachers in a Texas elementary school Tuesday, the 18-year-old gunman allegedly texted a girl who lives in Germany about his intentions.",0,Cluster_0
+killed,CNN,shooter,"The suspect who killed 19 kids and two teachers at an elementary school in Uvalde, Texas, was a local high school student with few if any friends who officials said legally purchased two assault rifles and scores of ammo last week for his 18th birthday.",0,Cluster_0
+stormed,CNN,shooter,"Salvador Ramos was identified as the gunman who stormed into Robb Elementary on Tuesday with an assault rifle and tactical vest, barricaded himself in a classroom of children and opened fire.",0,Cluster_0
+identified,CNN,shooter,"Salvador Ramos was identified as the gunman who stormed into Robb Elementary on Tuesday with an assault rifle and tactical vest, barricaded himself in a classroom of children and opened fire.",0,Cluster_0
+leading,CNN,shooter,The suspect's actions leading up to the shooting offer hints at his mindset and plan.,0,Cluster_0
+local,CNN,victim,"The suspect who killed 19 kids and two teachers at an elementary school in Uvalde, Texas, was a local high school student with few if any friends who officials said legally purchased two assault rifles and scores of ammo last week for his 18th birthday.",0,Cluster_0
+high,CNN,victim,"The suspect who killed 19 kids and two teachers at an elementary school in Uvalde, Texas, was a local high school student with few if any friends who officials said legally purchased two assault rifles and scores of ammo last week for his 18th birthday.",0,Cluster_0
+marked,CNN,victim,"Tuesday's shooting at a Texas elementary school, which has left at least 19 children and two adults dead, marked another instance of a uniquely American tragedy.",0,Cluster_0
+pronounced,CNN,victim,She was pronounced dead at the scene.,0,Cluster_0
+killed,CNN,shooter,Estrada confirmed the suspect was killed.,0,Cluster_0
+confirmed,CNN,shooter,Estrada confirmed the suspect was killed.,1,Other_1
+texted,CNN,shooter,"Just before killing 19 children and two teachers in a Texas elementary school Tuesday, the 18-year-old gunman allegedly texted a girl who lives in Germany about his intentions.",0,Cluster_0
+old,CNN,shooter,"Just before killing 19 children and two teachers in a Texas elementary school Tuesday, the 18-year-old gunman allegedly texted a girl who lives in Germany about his intentions.",0,Cluster_0
+alleged,CNN,shooter,"The alleged shooter, who also died, is believed to have shot his grandmother before going to the school, three law enforcement sources told CNN.",0,Cluster_0
+believed,CNN,shooter,Uvalde Consolidated Independent School District police Chief Pete Arredondo said the gunman is believed to have acted alone.,0,Cluster_0
+said,CNN,shooter,Uvalde Consolidated Independent School District police Chief Pete Arredondo said the gunman is believed to have acted alone.,0,Cluster_0
+identified,CNN,shooter,"The suspected shooter was identified as Salvador Ramos, of Uvalde, according to officials.",0,Cluster_0
+suspected,CNN,shooter,"The suspected shooter was identified as Salvador Ramos, of Uvalde, according to officials.",0,Cluster_0
+shot,CNN,victim,"He shot and killed, horrifically, incomprehensively, 14 students and killed a teacher,"" he said.",0,Cluster_0
+clad,CNN,shooter,"Just two days before students in a Texas elementary school were set to begin their summer break, a gunman clad in body armor rushed his way into the school and opened fire on classrooms of young children, killing 19 students and two adults, officials said.",0,Cluster_0
+rushed,CNN,shooter,"Just two days before students in a Texas elementary school were set to begin their summer break, a gunman clad in body armor rushed his way into the school and opened fire on classrooms of young children, killing 19 students and two adults, officials said.",0,Cluster_0
+old,CNN,shooter,"The 18-year-old gunman, who was killed by law enforcement, is believed to have shot his grandmother before driving to the school to carry out to attack, according to the Texas Department of Public Safety.",0,Cluster_0
+active,CNN,shooter,"The Uvalde Consolidated Independent School District (UCISD) posted about an ""active shooter"" at Robb Elementary at 12:17 p.m. local time and said law enforcement was on site.",0,Cluster_0
+taken,CNN,shooter,"The suspect was taken into custody as of 1:06 p.m. local time, according to the Uvalde Police Department.",0,Cluster_0
+active,CNN,shooter,"The Uvalde Consolidated Independent School District (UCISD) said there was an ""active shooter"" at Robb Elementary School at 12:17 p.m. Tuesday local time and said law enforcement was on site.",0,Cluster_0
+taken,CNN,shooter,"The suspect was taken into custody, according to the Uvalde Police Department.",0,Cluster_0
+came,CNN,shooter,"Nineteen children and two teachers were close to celebrating the end of the school year at Robb Elementary School when a gunman came in and opened fire, stealing their lives and devastating a nation.",0,Cluster_0
+old,CNN,shooter,"An 18-year-old gunman on Tuesday fatally shot 18 children and an adult at a Texas elementary school before he was killed by law enforcement officers, officials said.",0,Cluster_0
+shot,CNN,shooter,"An 18-year-old gunman on Tuesday fatally shot 18 children and an adult at a Texas elementary school before he was killed by law enforcement officers, officials said.",0,Cluster_0
+shot,CNN,shooter,"The shooter -- identified by Texas officials as Salvador Ramos, of Uvalde -- also shot his grandmother before going to the school, three law enforcement sources told CNN.",0,Cluster_0
+identified,CNN,shooter,"The shooter -- identified by Texas officials as Salvador Ramos, of Uvalde -- also shot his grandmother before going to the school, three law enforcement sources told CNN.",0,Cluster_0
+believed,CNN,shooter,"The gunman is believed to have acted alone, Uvalde Consolidated Independent School District Police Chief Pete Arredondo said.",0,Cluster_0
+left,CNN,victim,"The shooting was the deadliest at an elementary school since the Sandy Hook massacre in Connecticut in 2012 that left 26 people dead, including 20 children between 6 and 7 years old.",0,Cluster_0
+including,CNN,victim,"The shooting was the deadliest at an elementary school since the Sandy Hook massacre in Connecticut in 2012 that left 26 people dead, including 20 children between 6 and 7 years old.",0,Cluster_0
+came,CNN,shooter,"Nineteen children and two adults were on the brink of celebrating the end of the school year at Robb Elementary School when a gunman came in and opened fire, stealing their lives and devastating a nation.",0,Cluster_0
+old,CNN,shooter,"An 18-year-old gunman on Tuesday fatally shot 19 children and two adults at an elementary school in Uvalde, Texas, before he was killed by law enforcement officers, officials said.",0,Cluster_0
+shot,CNN,shooter,"An 18-year-old gunman on Tuesday fatally shot 19 children and two adults at an elementary school in Uvalde, Texas, before he was killed by law enforcement officers, officials said.",0,Cluster_0
+murdered,CNN,shooter,Walker's comments come one day after a gunman murdered 21 people in a Texas elementary school.,0,Cluster_0
+dead,CNN,shooter,"The gunman is also dead, he said.",0,Cluster_0
+active,CNN,shooter,"The Uvalde Consolidated Independent School District (UCISD) said there was an ""active shooter"" at Robb Elementary School at 12:17 p.m. Tuesday local time and said law enforcement was on site.",0,Cluster_0
+taken,CNN,shooter,"The suspect was taken into custody, according to the Uvalde Police Department.",0,Cluster_0
+said,CNN,victim,"The gunman is also dead, he said.",0,Cluster_0
+marked,CNN,victim,"Tuesday's shooting at a Texas elementary school, which has left at least 19 children and two adults dead, marked another instance of a uniquely American tragedy.",0,Cluster_0
+old,CNN,shooter,"The 18-year-old shooter, identified by officials as Salvador Ramos, was shot and killed by responding law enforcement.",0,Cluster_0
+identified,CNN,shooter,"The 18-year-old shooter, identified by officials as Salvador Ramos, was shot and killed by responding law enforcement.",0,Cluster_0
+shot,CNN,victim,"The 18-year-old shooter, identified by officials as Salvador Ramos, was shot and killed by responding law enforcement.",0,Cluster_0
+responding,CNN,victim,"The 18-year-old shooter, identified by officials as Salvador Ramos, was shot and killed by responding law enforcement.",0,Cluster_0
+left,CNN,victim,"The NRA's annual meeting was canceled in 2020 and 2021 due to the coronavirus pandemic, but this year the organization is moving ahead with its plans, holding the meeting at a time when both gun rights and the organization itself have come under intense scrutiny, especially after a shooting at an elementary school in Uvalde, Texas, left 21 dead.",0,Cluster_0
+suspected,Fox News,shooter,"A mass shooting at a Texas elementary school killed 19 children and two teachers Tuesday and the suspected gunman was killed,Gov. Greg Abbott said.",0,Cluster_0
+killed,Fox News,shooter,"A mass shooting at a Texas elementary school killed 19 children and two teachers Tuesday and the suspected gunman was killed,Gov. Greg Abbott said.",0,Cluster_0
+identified,Fox News,shooter,"Abbott identified the suspect as Salvador Ramos, a Uvalde resident, who is also dead and acted alone, authorities said.",0,Cluster_0
+killed,Fox News,shooter,"The shooter was likely killed by responding officers, but the investigation was still ongoing, authorities said.",0,Cluster_0
+elementary,Fox News,victim,"A mass shooting at a Texas elementary school killed 19 children and two teachers Tuesday and the suspected gunman was killed,Gov. Greg Abbott said.",0,Cluster_0
+suspected,Fox News,victim,"A mass shooting at a Texas elementary school killed 19 children and two teachers Tuesday and the suspected gunman was killed,Gov. Greg Abbott said.",0,Cluster_0
+acted,Fox News,victim,"Abbott identified the suspect as Salvador Ramos, a Uvalde resident, who is also dead and acted alone, authorities said.",0,Cluster_0
+responding,Fox News,victim,"The shooter was likely killed by responding officers, but the investigation was still ongoing, authorities said.",0,Cluster_0
+deceased,Fox News,shooter,The Uvalde Consolidated Independent School District (UCISD) in Texas had many security measures in place before Tuesday'smass shooting that left at least 18 students and a teacher dead after a now-deceased suspect opened fire at Robb ElementarySchool.,0,Cluster_0
+opened,Fox News,shooter,The Uvalde Consolidated Independent School District (UCISD) in Texas had many security measures in place before Tuesday'smass shooting that left at least 18 students and a teacher dead after a now-deceased suspect opened fire at Robb ElementarySchool.,0,Cluster_0
+deceased,Fox News,shooter,"The now-deceased suspect, Salvador Romas, is accused of entering school grounds on Tuesday and opening fire, according toTexas Gov. Greg Abbott.",0,Cluster_0
+identified,Fox News,shooter,"A shooter identified as Salvador Romas opened fire at Robb Elementary School Tuesday, killing at least 18 students and oneteacher.",0,Cluster_0
+died,Fox News,shooter,The gunman also died.,0,Cluster_0
+expected,Fox News,victim,"Two police officers were shot and wounded but were expected to survive, Texas Gov. Greg Abbottsaid.",0,Cluster_0
+shot,Fox News,victim,"Two police officers were shot and wounded but were expected to survive, Texas Gov. Greg Abbottsaid.",0,Cluster_0
+claimed,Fox News,shooter,"Former FBI assistant director Chris Swecker claimed the alleged shooter of Robb Elementary School in Uvalde, Texas, was""flashing red"" ahead of his ""unspeakable, cowardly act"" Tuesday on ""The Ingraham Angle.",0,Cluster_0
+alleged,Fox News,shooter,"Former FBI assistant director Chris Swecker claimed the alleged shooter of Robb Elementary School in Uvalde, Texas, was""flashing red"" ahead of his ""unspeakable, cowardly act"" Tuesday on ""The Ingraham Angle.",0,Cluster_0
+dead,Fox News,shooter,"UVALDE, TEXAS SCHOOL SHOOTING: 18 STUDENTS, ONE ADULT KILLED, SUSPECTED SHOOTER DEAD
+
+It goes back to why did we not have a police officer, meaning an armed resource officer, at the front of this school?",0,Cluster_0
+goes,Fox News,victim,"UVALDE, TEXAS SCHOOL SHOOTING: 18 STUDENTS, ONE ADULT KILLED, SUSPECTED SHOOTER DEAD
+
+It goes back to why did we not have a police officer, meaning an armed resource officer, at the front of this school?",0,Cluster_0
+shooter,Fox News,victim,"UVALDE, TEXAS SCHOOL SHOOTING: 18 STUDENTS, ONE ADULT KILLED, SUSPECTED SHOOTER DEAD
+
+It goes back to why did we not have a police officer, meaning an armed resource officer, at the front of this school?",0,Cluster_0
+killed,Fox News,shooter,"UVALDE, TEXAS SCHOOL SHOOTING: 14 STUDENTS, ONE TEACHER KILLED, SUSPECTED SHOOTER DEAD, GOV.",0,Cluster_0
+shooter,Fox News,victim,"UVALDE, TEXAS SCHOOL SHOOTING: 14 STUDENTS, ONE TEACHER KILLED, SUSPECTED SHOOTER DEAD, GOV.",0,Cluster_0
+suspected,Fox News,victim,"UVALDE, TEXAS SCHOOL SHOOTING: 14 STUDENTS, ONE TEACHER KILLED, SUSPECTED SHOOTER DEAD, GOV.",0,Cluster_0
+dead,Fox News,shooter,"UVALDE, TEXAS SCHOOL SHOOTING: 18 STUDENTS, ONE ADULT KILLED, SUSPECTED SHOOTER DEAD
+
+I was in the business of rescuing people from situations like this.",0,Cluster_0
+shooter,Fox News,victim,"UVALDE, TEXAS SCHOOL SHOOTING: 18 STUDENTS, ONE ADULT KILLED, SUSPECTED SHOOTER DEAD
+
+I was in the business of rescuing people from situations like this.",0,Cluster_0
+dead,Fox News,victim,"UVALDE, TEXAS SCHOOL SHOOTING: 18 STUDENTS, ONE ADULT KILLED, SUSPECTED SHOOTER DEAD
+
+I was in the business of rescuing people from situations like this.",0,Cluster_0
+identified,Fox News,shooter,"The suspected gunman has been identified by authorities as 18-year-old Uvalde, Texas, resident Salvador Ramos.",0,Cluster_0
+suspected,Fox News,shooter,"The suspected gunman has been identified by authorities as 18-year-old Uvalde, Texas, resident Salvador Ramos.",0,Cluster_0
+anarmed,Fox News,victim,"A mass shooting at a Texas elementary school Tuesday left at least 19 children and two teachers dead after anarmed 18-year-old entered the campus, barricaded himself in a classroom and opened fire.",0,Cluster_0
+mass,Fox News,victim,"A mass casualty incident, later discovered to be the shooting, takes place at Robb Elementary School in Uvalde, Texas, that servessecond through fourth graders.",0,Cluster_0
+shooting,Fox News,shooter,"Salvador Ramos, the alleged gunman accused of shooting his grandmother and then targeting dozens of victims – ultimately killing19 children and two adults – at a Texas elementary school was known to be a loner who had quit his job just weeks beforeunleashing his attack, Fox News has learned. 
+
+Ramos, an 18-year-old Uvalde, Texas, resident, legally purchased two AR-platform rifles on May 17 and May 20, and bought 375rounds of ammunition on May 18, Texas Sen. John Whitmire told Fox affiliate KCPQ-TV, citing a briefing from the Bureau ofAlcohol, Tobacco, Firearms and Explosives.",0,Cluster_0
+accused,Fox News,shooter,"Salvador Ramos, the alleged gunman accused of shooting his grandmother and then targeting dozens of victims – ultimately killing19 children and two adults – at a Texas elementary school was known to be a loner who had quit his job just weeks beforeunleashing his attack, Fox News has learned. 
+
+Ramos, an 18-year-old Uvalde, Texas, resident, legally purchased two AR-platform rifles on May 17 and May 20, and bought 375rounds of ammunition on May 18, Texas Sen. John Whitmire told Fox affiliate KCPQ-TV, citing a briefing from the Bureau ofAlcohol, Tobacco, Firearms and Explosives.",0,Cluster_0
+alleged,Fox News,shooter,"Salvador Ramos, the alleged gunman accused of shooting his grandmother and then targeting dozens of victims – ultimately killing19 children and two adults – at a Texas elementary school was known to be a loner who had quit his job just weeks beforeunleashing his attack, Fox News has learned. 
+
+Ramos, an 18-year-old Uvalde, Texas, resident, legally purchased two AR-platform rifles on May 17 and May 20, and bought 375rounds of ammunition on May 18, Texas Sen. John Whitmire told Fox affiliate KCPQ-TV, citing a briefing from the Bureau ofAlcohol, Tobacco, Firearms and Explosives.",0,Cluster_0
+belong,Fox News,shooter,"Salvador Ramos Texas school shooter
+
+Salvador Ramos suspected vehicle crash before Uvalde Texas elementary school shooting
+
+A police vehicle is seen parked near of a truck believed to belong to the suspect of a shooting at Robb Elementary School in Uvalde, Texas, onTuesday, May 24.",0,Cluster_0
+fleeing,Fox News,victim,"(Reuters/Marco Bello)
+
+
+On Tuesday, Ramos was involved in a domestic disturbance with his grandmother at his grandparents’ Uvalde home, when he shotthe woman in the face and seriously injured her before fleeing, according to authorities.",0,Cluster_0
+deceased,Fox News,shooter,"Texas Gov. Greg Abbott identified the deceased suspect as Salvador Ramos, 18, who had a handgun and possibly a rifle when heopened fire at Robb Elementary School, killing 18 students and one teacher, according to Abbott.",0,Cluster_0
+identified,Fox News,shooter,"Texas Gov. Greg Abbott identified the deceased suspect as Salvador Ramos, 18, who had a handgun and possibly a rifle when heopened fire at Robb Elementary School, killing 18 students and one teacher, according to Abbott.",0,Cluster_0
+according,Fox News,victim,"Texas Gov. Greg Abbott identified the deceased suspect as Salvador Ramos, 18, who had a handgun and possibly a rifle when heopened fire at Robb Elementary School, killing 18 students and one teacher, according to Abbott.",0,Cluster_0
+reported,Fox News,shooter,"There were 61 active shooter incidents reported in the U.S. in 2021 – a nearly 53% increase, or a jump of 21 events, from 2020, theFBI has found.",0,Cluster_0
+active,Fox News,shooter,"There were 61 active shooter incidents reported in the U.S. in 2021 – a nearly 53% increase, or a jump of 21 events, from 2020, theFBI has found.",0,Cluster_0
+active,Fox News,shooter,"There were 52.5% more active shooter incidents between 2020 and 2021, and 33% more from 2019 to 2020, according to an FBIreport released Monday, titled ""Active Shooter Incidents in the United States in 2021.",0,Cluster_0
+titled,Fox News,shooter,"There were 52.5% more active shooter incidents between 2020 and 2021, and 33% more from 2019 to 2020, according to an FBIreport released Monday, titled ""Active Shooter Incidents in the United States in 2021.",0,Cluster_0
+active,Fox News,shooter,"The bureaudefined an ""active shooter"" as being ""one or more individuals actively engaged in killing or attempting to kill people in a populatedarea.""",0,Cluster_0
+andwounded,Fox News,victim,"Gendron killed 10 people andwounded three others, officials have said.",0,Cluster_0
+killed,Fox News,shooter,"""
+
+Martinez is the uncle of fourth-grader Xavier Lopez, 10, who was killed when a gunman broke into the school and fatally shot atleast 19 children and two teachers.",0,Cluster_0
+broke,Fox News,shooter,"""
+
+Martinez is the uncle of fourth-grader Xavier Lopez, 10, who was killed when a gunman broke into the school and fatally shot atleast 19 children and two teachers.",0,Cluster_0
+killed,Fox News,shooter,"Fourth-grader Xavier Lopez, 10, was killed when a gunman broke into Robb Elementary School in Uvalde, Texas on May 24, 2022.",0,Cluster_0
+broke,Fox News,shooter,"Fourth-grader Xavier Lopez, 10, was killed when a gunman broke into Robb Elementary School in Uvalde, Texas on May 24, 2022.",0,Cluster_0
+encouraging,Fox News,victim,"After at least 19 students at Robb Elementary School in Uvalde, Texas, were killed Tuesday morning, a family member of one of thechildren killed is encouraging parents across the country to hold their own children close, as they never know when it will be the lasttime.",0,Cluster_0
+dead,Fox News,shooter,"UVALDE, TEXAS SCHOOL SHOOTING: 18 STUDENTS, ONE ADULT KILLED, SUSPECTED SHOOTER DEAD 
+
+Every parent, every grandparent that has a child envisions what they would feel if it happened to them.",0,Cluster_0
+lone,Fox News,shooter,"A suspected lone gunman took the lives of at least 19 children and two teachers; the gunman has been killed, Texas Gov. GregAbbott said on Tuesday.",0,Cluster_0
+suspected,Fox News,shooter,"A suspected lone gunman took the lives of at least 19 children and two teachers; the gunman has been killed, Texas Gov. GregAbbott said on Tuesday.",0,Cluster_0
+killed,Fox News,shooter,"A suspected lone gunman took the lives of at least 19 children and two teachers; the gunman has been killed, Texas Gov. GregAbbott said on Tuesday.",0,Cluster_0
+took,Fox News,shooter,"A suspected lone gunman took the lives of at least 19 children and two teachers; the gunman has been killed, Texas Gov. GregAbbott said on Tuesday.",0,Cluster_0
+died,Fox News,shooter,"Texas Governor Greg Abbott said that 14 elementary school students and one teacher from the Robb Elementary School in Uvaldehad died after the suspect, who the governor identified as local resident Salvador Romas, attacked the school.",0,Cluster_0
+suspected,Fox News,shooter,"Annabelle Guadalupe Rodriguez, 10, who did not make contact with her family in the hours after suspected gunman SalvadorRamos, a student of Uvalde High School, carried out his shooting spree, was also among those who died, her father told Fox 7Austin.",0,Cluster_0
+old,Fox News,victim,"Elijah Cruz Torres, a 10-year-old student at Robb Elementary School, is still missing following a shooting incident on May 24, 2022.",0,Cluster_0
+deceased,Fox News,shooter,"Greenwald noted how Biden began with a proper, emotional response to the tragic loss of life, but quickly pivoted to blaming the""gun lobby"" for the mass shooting allegedly committed by now-deceased suspect Salvador Ramos.",0,Cluster_0
+barricaded,WSJ,shooter,"""The on-scene commander at that time believed it had transitioned from an active shooter to a barricaded subject,"" Steven McCraw, director of the Texas Department of Public Safety, said at a news conference on Friday.",0,Cluster_0
+active,WSJ,shooter,"""The on-scene commander at that time believed it had transitioned from an active shooter to a barricaded subject,"" Steven McCraw, director of the Texas Department of Public Safety, said at a news conference on Friday.",0,Cluster_0
+active,WSJ,shooter,"""Obviously, based upon the information we have, children in that classroom were at risk and it was in fact still an active shooter . . .",0,Cluster_0
+charging,WSJ,shooter,"It isn't clear if charging the gunman sooner would have saved lives, but that is what we expect of law enforcement.",0,Cluster_0
+elementary,WSJ,shooter,"The Border Patrol agent who killed the mass shooter at an elementary school here Tuesday belonged to a small, elite team that has a presence in this town and responded to calls about the incident on local police radio.",0,Cluster_0
+killed,WSJ,shooter,"The Border Patrol agent who killed the mass shooter at an elementary school here Tuesday belonged to a small, elite team that has a presence in this town and responded to calls about the incident on local police radio.",0,Cluster_0
+confronted,WSJ,shooter,"The agent and two colleagues who confronted the shooter belong to the Border Patrol Tactical Unit, known as Bortac.",0,Cluster_0
+locked,WSJ,shooter,"Initially, the Bortac agents couldn't get into the classroom where the shooter locked himself because of a steel door and cinder block construction.",0,Cluster_0
+killed,WSJ,shooter,A third killed the suspect.,0,Cluster_0
+second,WSJ,victim,One Bortac agent took rounds to their shield upon entering and a second was wounded by shrapnel.,0,Cluster_0
+opened,WSJ,shooter,"When a gunman opened fire Tuesday in a classroom using a semiautomatic weapon, killing 19 children and two teachers, he sent tragedy ricocheting through this community.",0,Cluster_0
+entered,WSJ,shooter,"Local residents voiced anger about the time it took to end the mass shooting at an Uvalde, Texas, elementary school, as police laid out a fresh timeline that showed the gunman entered the building unobstructed after lingering outside for 12 minutes firing shots.",0,Cluster_0
+showed,WSJ,shooter,"Local residents voiced anger about the time it took to end the mass shooting at an Uvalde, Texas, elementary school, as police laid out a fresh timeline that showed the gunman entered the building unobstructed after lingering outside for 12 minutes firing shots.",0,Cluster_0
+identified,WSJ,shooter,"Police identified the gunman as Salvador Ramos, a resident of Uvalde, where the school is located.",0,Cluster_0
+including,WSJ,victim,"An 18-year-old man opened fire in an elementary school here Tuesday, killing at least 19 students and two adults, including a teacher, before he was killed by law enforcement, officials said.",0,Cluster_0
+former,WSJ,victim,"Uvalde, a city of around 16,000, is about 80 miles west of San Antonio.
+
+Ramos, a former student at Uvalde High School, shot his grandmother before going to Robb Elementary School, police said.",0,Cluster_0
+locked,WSJ,shooter,"Police who responded to the mass shooting at an elementary school here waited around an hour to enter the classroom where the gunman had locked himself because a commander on scene incorrectly thought no lives were at risk despite multiple 911 calls from children inside, the director of the Texas Department of Public Safety said Friday.",0,Cluster_0
+barricaded,WSJ,shooter,"The first 911 call regarding the shooter came in at 11:30 a.m. Tuesday, minutes before local police arrived and the shooter barricaded himself inside two connected fourth-grade classrooms at Robb Elementary School, Mr. McCraw said.",0,Cluster_0
+came,WSJ,shooter,"The first 911 call regarding the shooter came in at 11:30 a.m. Tuesday, minutes before local police arrived and the shooter barricaded himself inside two connected fourth-grade classrooms at Robb Elementary School, Mr. McCraw said.",0,Cluster_0
+arrived,WSJ,shooter,"The first 911 call regarding the shooter came in at 11:30 a.m. Tuesday, minutes before local police arrived and the shooter barricaded himself inside two connected fourth-grade classrooms at Robb Elementary School, Mr. McCraw said.",0,Cluster_0
+killed,WSJ,shooter,"A Border Patrol tactical team ultimately did so, and killed the shooter, at 12:50 p.m., he said.",0,Cluster_0
+barricaded,WSJ,shooter,"""The on scene commander at that time believed it had transitioned from an active shooter to a barricaded subject,"" Mr. McCraw said.",0,Cluster_0
+active,WSJ,shooter,"""The on scene commander at that time believed it had transitioned from an active shooter to a barricaded subject,"" Mr. McCraw said.",0,Cluster_0
+active,WSJ,shooter,"""Obviously, based upon the information we have, children in that classroom were at risk, and it was in fact still an active shooter . . .",0,Cluster_0
+found,WSJ,victim,Ultimately 19 children and two teachers were found dead.,0,Cluster_0
+begging,WSJ,victim,"From 12:03 to 12:46, he added, 911 dispatchers received numerous calls from within the classroom, including repeated calls from a child whispering that people were dead and begging: ""Please send the police now.""",0,Cluster_0
+recent,WSJ,victim,A holiday weekend clouded by public grief over 31 people killed in recent attacks by teenage gunmen ended on Monday with focus on a perennial question: Can bitterly divided lawmakers reach any kind of accord aimed at preventing mass shootings?,0,Cluster_0
+locked,WSJ,shooter,"Police who responded to the mass shooting at an Uvalde, Texas, elementary school waited around an hour to enter the classroom where the gunman had locked himself because a commander on scene incorrectly thought no lives were at risk, the director of the Texas Department of Public Safety said.",0,Cluster_0
+described,WSJ,shooter,"A Texas Department of Public Safety spokesman, Lieutenant Chris Olivarez, described the gunman as ""just a complete evil person.",0,Cluster_0
+evil,WSJ,shooter,"Writing in Time magazine about the slaughter of 16 schoolchildren and a teacher in Dunblane, Scotland, 26 years ago, I called it an evil act; I said that the shooter himself, a man named Hamilton, was evil.",0,Cluster_0
+said,WSJ,shooter,"Writing in Time magazine about the slaughter of 16 schoolchildren and a teacher in Dunblane, Scotland, 26 years ago, I called it an evil act; I said that the shooter himself, a man named Hamilton, was evil.",0,Cluster_0
+going,WSJ,shooter,"The killing of 19 children and two teachers at an elementary school in Uvalde Texas, makes this year the third most deadly for active school-shooter events going back to 1970.",0,Cluster_0
+active,WSJ,shooter,"The killing of 19 children and two teachers at an elementary school in Uvalde Texas, makes this year the third most deadly for active school-shooter events going back to 1970.",0,Cluster_0
+killed,WSJ,shooter,"The gunman who killed 19 students and two teachers in an elementary school here had a confrontation with an armed security guard before getting into the building and sent a private Facebook message about his intention to commit the mass shooting minutes before driving there, officials said Wednesday.",0,Cluster_0
+had,WSJ,shooter,"The gunman who killed 19 students and two teachers in an elementary school here had a confrontation with an armed security guard before getting into the building and sent a private Facebook message about his intention to commit the mass shooting minutes before driving there, officials said Wednesday.",0,Cluster_0
+killed,WSJ,shooter,"The gunman who killed 19 students and two teachers at an elementary school in Uvalde, Texas, had a confrontation with an armed security guard before getting into the building and sent a private Facebook message about his intention to commit the mass shooting minutes before driving there, officials said.",0,Cluster_0
+had,WSJ,shooter,"The gunman who killed 19 students and two teachers at an elementary school in Uvalde, Texas, had a confrontation with an armed security guard before getting into the building and sent a private Facebook message about his intention to commit the mass shooting minutes before driving there, officials said.",0,Cluster_0
+shot,WSJ,victim,"An Iranian Revolutionary Guard officer who was shot dead in Tehran on Sunday led the group's efforts to assassinate opponents of Iran around the world, according to people familiar with the matter.",0,Cluster_0
+entered,WSJ,shooter,"Local residents voiced anger Thursday about the time it took to end the mass shooting at an elementary school here, as police laid out a fresh timeline that showed the gunman entered the building unobstructed after lingering outside for 12 minutes firing shots.",0,Cluster_0
+showed,WSJ,shooter,"Local residents voiced anger Thursday about the time it took to end the mass shooting at an elementary school here, as police laid out a fresh timeline that showed the gunman entered the building unobstructed after lingering outside for 12 minutes firing shots.",0,Cluster_0
+deceased,WSJ,shooter,"Victor Escalon, a regional director for the Texas Department of Public Safety, gave a new timeline of how the now-deceased gunman, 18-year-old Salvador Ramos, walked into Robb Elementary School, barricaded himself in a classroom and killed 19 children and two teachers.",0,Cluster_0
+walked,WSJ,shooter,"Victor Escalon, a regional director for the Texas Department of Public Safety, gave a new timeline of how the now-deceased gunman, 18-year-old Salvador Ramos, walked into Robb Elementary School, barricaded himself in a classroom and killed 19 children and two teachers.",0,Cluster_0
